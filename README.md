@@ -85,4 +85,4 @@ example 2:
 
 `seam.py`: find the seam line by DP algorithm
 
-`matcher.py`: SIFT algorithm to detect and match the feature points
+`matcher.py`: matcher to detect and match the feature points
