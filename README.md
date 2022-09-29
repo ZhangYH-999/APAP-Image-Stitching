@@ -1,7 +1,7 @@
 # APAP-Image-Stitching
 the APAP image stitching algorithm in python,
 
-requirement: `OpenCV 3.4.2.16`, `numpy` , `scikit`
+requirement: `OpenCV 3.4.2.16`(important), `numpy` , `scikit`
 
 
 
